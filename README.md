@@ -6,8 +6,8 @@ Cape 2021 Workshop Team 1 Repository
 [Plant 1 Parameters](https://cape2021.github.io/plantajs/index.html)  |
 [Plant 1 Charts](https://cape2021.github.io/plantajs/chart.html)
 
-[Plant trucking](https://miro.com/welcomeonboard/Dg3v3fd3lHOCurskd9lTfTnop11QmRDDhhrUJbXdXa5LZtH5yMXQn1xQRSscJll8)
-
+[Miro board](https://miro.com/welcomeonboard/Dg3v3fd3lHOCurskd9lTfTnop11QmRDDhhrUJbXdXa5LZtH5yMXQn1xQRSscJll8)
+[Google drive](https://drive.google.com/drive/folders/1UUiFFLu_q_hZoNSgnJZBfHl3FIhynVrf?usp=sharing)
 
 
 
