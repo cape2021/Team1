@@ -12,4 +12,4 @@ Cape 2021 Workshop Team 1 Repository
 
 [HARUKA fakes](http://18540d730afe.ngrok.io)
 
-
+[presentation](https://docs.google.com/presentation/d/12BIIU3abOE-9xeOjXutmkzjtDu-1e7sdrpLbu-eZz68/edit#slide=id.p)
